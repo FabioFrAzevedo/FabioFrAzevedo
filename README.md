@@ -1,7 +1,6 @@
 ### Hi! Fabio here 
 
-- 🔭 I'm not working at the moment
-- 🌱 I'm currently learning Java and Python
+- 🌱 I'm currently learning cybersecurity
 - ✉️ Contact me: fabiofrazevedo@gmail.com
 
 ![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiofrazevedo&show_icons=true&theme=dracula)
